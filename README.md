@@ -26,7 +26,6 @@
 ## Progress - Finished
 
 - [Finished submissions](https://github.com/NeikiDev/NeikiAnalytics/tree/main/finished)
-- [InProgress submissions](https://github.com/NeikiDev/NeikiAnalytics/tree/main/in-progress)
 
 ## Socials
 
