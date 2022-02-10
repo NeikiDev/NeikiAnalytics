@@ -33,14 +33,13 @@ Neiki#4405
 
 ### Email
 ```
-neikianalytics@gmail.com !
+neikianalytics@gmail.com 
 ```
 
 ## Information
-- ? I will not publish privat data or files!
-- ? I will review your submission as soon as i can!
-- ? If i found nothing that means its not **100%** Save!
-- ! I make this as a hobby!
-- ! I try my best but I can't guarantee 100% security
+- I will not publish privat data or files!
+- I will review your submission as soon as i can!
+- I make this as a hobby!
+- I try my best but I can't guarantee 100% security
 
 ## Questions? Only write me a DM 😊
