@@ -1,6 +1,6 @@
 # NeikiAnalytics
 
-## German (🇩🇪)
+## German 
 
 * (🔎) Du hast eine Datei die dir komisch vorkommt? 
 * (🔎) Verdacht auf einen Virus oder Fishing? 
@@ -12,7 +12,7 @@
 ### Sende mir eine DM auf Discord oder Twitter!
 
 
-## English (🏴󠁧󠁢󠁥󠁮󠁧󠁿)
+## English 
 
 * (🔎) Do you have (a) suspicious file(s)?
 * (🔎) Think its a virus or fishing? 
