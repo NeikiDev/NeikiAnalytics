@@ -19,7 +19,7 @@
 
 - [ ] I will review and analyze the file(s).
 - [ ] You will get an answer with my analysis and information as soon as I'm done!
-- [ ] Write me on [Discord](https://discord.com/users/416999341006520321) ir [Twitter](https://twitter.com/neiki__) a direct message for the status of your entry!
+- [ ] Write me on [Discord](https://discord.com/users/416999341006520321) or [Twitter](https://twitter.com/neiki__) a direct message for the status of your entry!
 
 ### DM me on Discord or Twitter!
 
