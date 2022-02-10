@@ -41,6 +41,7 @@ neikianalytics@gmail.com
 ```
 
 ## Information
+- I will also check **suspicious links / URLs**
 - I will not publish privat data or files!
 - I will review your submission as soon as i can!
 - I make this as a hobby!
