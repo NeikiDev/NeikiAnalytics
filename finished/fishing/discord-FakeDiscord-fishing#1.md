@@ -5,7 +5,7 @@
 
 ## Fishing Link (DANGEROUS)
 ```
-https://dljscord.com/gift/WNVK3
+https://dljscord[.]com/gift/WNVK3
 ```
 ## Website IP
 ```

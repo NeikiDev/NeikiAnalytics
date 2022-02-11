@@ -5,7 +5,7 @@
 
 ## Fishing Link (DANGEROUS)
 ```
-https://steamcommunitus.com/tradeoffer/new/?partner=1444862071&token=132Bi2vt
+https://steamcommunitus[.]com/tradeoffer/new/?partner=1444862071&token=132Bi2vt
 ```
 ## Website IP
 ```
