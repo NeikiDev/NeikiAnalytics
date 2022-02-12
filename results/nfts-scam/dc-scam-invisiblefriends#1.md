@@ -39,7 +39,7 @@ https://www.invisibiefriends[.]com/
 
 ## Example Screenshot
 
-![](https://i.ibb.co/4gJgfvw/Screenshot-2022-02-12-163411.png)
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/screenshots/scrnsht-invisblefriends%231.png)
 
 
 ## How to be Secrure of this!
