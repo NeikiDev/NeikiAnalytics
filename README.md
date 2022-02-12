@@ -26,6 +26,7 @@
 ## Progress - Results
 
 - [Results of submissions](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results)
+- [Collection of dangerous Ips](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips)
 
 ## Socials
 
