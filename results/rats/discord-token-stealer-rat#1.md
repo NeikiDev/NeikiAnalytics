@@ -21,5 +21,5 @@ Link removed! Too dangerous! (Looked like: https://mega.nz/file/***)
 
 ## Youtube Video got Removed!
 - You can find information about the Fishing Links here: 
-    - [ ] [Steam Fishing URL Result](https://github.com/NeikiDev/NeikiAnalytics/blob/main/finished/fishing/discord-steam-fishing%231.md)
-    - [ ] [Fake Discord Fishing URL Result](https://github.com/NeikiDev/NeikiAnalytics/blob/main/finished/fishing/discord-FakeDiscord-fishing%231.md)
+    - [ ] [Steam Fishing URL Result](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/fishing/discord-steam-fishing%231.md)
+    - [ ] [Fake Discord Fishing URL Result](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/fishing/discord-FakeDiscord-fishing%231.md)

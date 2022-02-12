@@ -23,9 +23,9 @@
 
 ### DM me on Discord or Twitter!
 
-## Progress - Finished
+## Progress - Results
 
-- [Finished submissions](https://github.com/NeikiDev/NeikiAnalytics/tree/main/finished)
+- [Results of submissions](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results)
 
 ## Socials
 
