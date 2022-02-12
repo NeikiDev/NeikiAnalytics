@@ -7,6 +7,7 @@
 
 - [FISHING](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results/fishing)
 - [RATS](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results/rats)
+- [NFTs SCAM](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results/nfts-scam)
 
 ## Socials
 
