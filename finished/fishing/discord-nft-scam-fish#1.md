@@ -44,7 +44,7 @@ https://www.invisibiefriends[.]com/
 ## How to be Secrure of this!
 
 ```
-> Please dont click any links in your **DMs** from Strangers!
+> Please dont click any links in your DMs from Strangers!
 > Look on their official Discord / Twitter for the Real Page!
 > Please take care at NFTs , 99% is scam on this thing!
 ```
