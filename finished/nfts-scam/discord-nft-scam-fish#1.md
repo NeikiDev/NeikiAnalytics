@@ -45,7 +45,8 @@ https://www.invisibiefriends[.]com/
 
 ```
 > Please dont click any links in your DMs from Strangers!
-> Look on their official Discord / Twitter for the Real Page!
+> Look on the official Discord / Twitter for the Real Page!
+> Google the Website and the NFT!
 > Please take care at NFTs , 99% is scam on this thing!
 ```
 
