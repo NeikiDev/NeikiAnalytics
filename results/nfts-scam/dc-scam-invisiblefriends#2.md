@@ -43,7 +43,7 @@
 
 ## Example Screenshot
 
-![](https://i.ibb.co/3cRmmNs/Screenshot-2022-02-12-190638.png)
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/screenshots/scrnsht-invisblefriends%232.png)
 
 
 ## How to be Secrure of this!
