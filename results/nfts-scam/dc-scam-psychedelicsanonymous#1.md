@@ -44,7 +44,7 @@ https://psychedelic.mintapp[.]site/
 
 ## Example Screenshot
 
-![](https://i.ibb.co/sbfKC4L/Screenshot-2022-02-12-184828.png)
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/screenshots/scrnsht-psychedelics-anyn%231.png)
 
 
 ## How to be Secrure of this!
