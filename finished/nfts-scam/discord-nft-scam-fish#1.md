@@ -35,6 +35,7 @@ https://www.invisibiefriends[.]com/
 - [ ] The Real Website is ```https://invisiblefriends.io/``` 
 - [ ] Website is linked on ther Twitter Account
     - [Invisible Friends Twitter](https://twitter.com/InvsbleFriends)
+    - Discord can be Found also on the Twitter!
 
 ## Example Screenshot
 
