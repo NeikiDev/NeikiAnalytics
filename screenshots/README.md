@@ -1,7 +1,7 @@
-# NeikiAnalytics [Suspicious IPs]
+# NeikiAnalytics [Screenshots/Assets]
 
 ## Information
-- Here i list all my Screenshots i made for the [Information Files](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results/)!
+- Screenshots for the [Main Repo Files (Results)](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results/)!
 
 ## Socials
 
