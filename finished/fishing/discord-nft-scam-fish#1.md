@@ -38,7 +38,7 @@ https://www.invisibiefriends[.]com/
 
 ## Example Screenshot
 
-!(https://i.ibb.co/4gJgfvw/Screenshot-2022-02-12-163411.png)
+![](https://i.ibb.co/4gJgfvw/Screenshot-2022-02-12-163411.png)
 
 
 ## How to be Secrure of this!
