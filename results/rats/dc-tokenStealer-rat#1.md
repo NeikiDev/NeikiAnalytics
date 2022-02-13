@@ -1,4 +1,4 @@
-# Discord Fake Steam Fishing
+# Discord Fake Steam Phishing
 
 **IMPORTANT**
 - Click the link(s) at your own risk!
@@ -17,9 +17,9 @@ Link removed! Too dangerous! (Looked like: https://mega.nz/file/***)
 - After Download you have a **.ZIP** File!
 - If you want to install the **.EXE** file its connect your PC to a portuguese IP
 - Its steal your Discord Token
-- Spams fishing links to your Discord Friends!
+- Spams Phishing links to your Discord Friends!
 
 ## Youtube Video got Removed!
-- You can find information about the Fishing Links here: 
-    - [ ] [Steam Fishing URL Result](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/fishing/discord-steam-fishing%231.md)
-    - [ ] [Fake Discord Fishing URL Result](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/fishing/discord-FakeDiscord-fishing%231.md)
+- You can find information about the Phishing Links here: 
+    - [ ] [Steam Phishing URL Result](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/phishing/discord-steam-phishing%231.md)
+    - [ ] [Fake Discord Phishing URL Result](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/phishing/discord-FakeDiscord-phishing%231.md)

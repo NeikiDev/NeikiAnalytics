@@ -4,7 +4,7 @@
 ```
 Dont copy any of this IPs if you dont know what you are doing!
 
-Most of them are fishing or scam websites! They steel your data and passwords
+Most of them are Phishing or scam websites! They steel your data and passwords
 ```
 
 # NO IPs COLLECTED YET!

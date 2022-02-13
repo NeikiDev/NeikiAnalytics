@@ -1,9 +1,9 @@
-# Discord NFT (Mint) Scam / Fishing
+# Discord NFT (Mint) Scam / Phishing
 
 **IMPORTANT**
 - Click the link(s) at your own risk!
 
-## Fake Website (Scam / Fishing) 
+## Fake Website (Scam / Phishing) 
 ```
 1. https://invisiblefriends.safemintservices[.]io/
 
@@ -22,8 +22,8 @@
 - [ ] Shodan.io
     - [ ] [Shodan IP Information](https://www.shodan.io/host/185.178.208.175)
 
-- [ ] VirusTotal.com (Fishing URL)
-    - [ ] [Fishing URL Detection](https://www.virustotal.com/gui/url/fffe63b3ed0763f1f1599d6df2b7827872720bc40e69ca61e63333a2c5f17249?nocache=1)
+- [ ] VirusTotal.com (Phishing URL)
+    - [ ] [Phishing URL Detection](https://www.virustotal.com/gui/url/fffe63b3ed0763f1f1599d6df2b7827872720bc40e69ca61e63333a2c5f17249?nocache=1)
     - [ ] [TinyURL Detection](https://www.virustotal.com/gui/url/17a67e48daca880b058b1d14cf6e302a31605c929ae9cae9015349b79e8a1485?nocache=1)
     - [ ] [Website IP Detection](https://www.virustotal.com/gui/url/5caa53760da20d0c60f860b36c58e615219bbe0127225c5463085b3483130ec9)
  

@@ -1,9 +1,9 @@
-# Discord NFT (Mint) Scam / Fishing
+# Discord NFT (Mint) Scam / Phishing
 
 **IMPORTANT**
 - Click the link(s) at your own risk!
 
-## Fake Website (Scam / Fishing)
+## Fake Website (Scam / Phishing)
 ```
 https://psychedelic.mintapp[.]site/
 ```
@@ -20,8 +20,8 @@ https://psychedelic.mintapp[.]site/
     - [ ] [Shodan IP Information](https://www.shodan.io/host/45.61.137.31)
         - Port 22 Open & Website Port 443
 
-- [ ] VirusTotal.com (Fishing URL)
-    - [ ] [Fishing URL Detection](https://www.virustotal.com/gui/url/f4b17dd73293fe97a63040ea323290d05fff58b6c7a2aa18f711c782e7a1ba17?nocache=1)
+- [ ] VirusTotal.com (Phishing URL)
+    - [ ] [Phishing URL Detection](https://www.virustotal.com/gui/url/f4b17dd73293fe97a63040ea323290d05fff58b6c7a2aa18f711c782e7a1ba17?nocache=1)
     - [ ] [Main Website Detection](https://www.virustotal.com/gui/url/3f073f116b973de5b26c1173e1aa61eb0a85356c3e3755e8d984eac95d36cf53?nocache=1)
     - [ ] [Website IP Detection](https://www.virustotal.com/gui/url/3f073f116b973de5b26c1173e1aa61eb0a85356c3e3755e8d984eac95d36cf53?nocache=1)
  

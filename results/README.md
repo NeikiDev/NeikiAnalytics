@@ -5,7 +5,7 @@
 
 ## Content / Folder
 
-- [FISHING](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results/fishing)
+- [Phishing](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results/phishing)
 - [RATS](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results/rats)
 - [NFTs SCAM](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results/nfts-scam)
 
