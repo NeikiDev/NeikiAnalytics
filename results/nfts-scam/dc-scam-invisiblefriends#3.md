@@ -43,7 +43,7 @@ https://lnvisible-friends[.]com/
 
 ## Example Screenshot
 
-![](![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/screenshots/scrnsht-invisblefriends%233.png))
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/screenshots/scrnsht-invisiblefriends%233.png)
 
 
 ## How to be Secrure of this!
