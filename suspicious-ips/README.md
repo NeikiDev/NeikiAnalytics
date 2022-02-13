@@ -9,7 +9,9 @@
 - [PROGRAMMS](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips/programms)
 - [OTHER](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips/other)
 
-- [Text File with all IPs i found]()
+
+## All IPs i Found
+- [suspicious-ips.txt](https://github.com/NeikiDev/NeikiAnalytics/blob/main/suspicious-ips/suspicious-ips.txt)
 
 ## Socials
 
