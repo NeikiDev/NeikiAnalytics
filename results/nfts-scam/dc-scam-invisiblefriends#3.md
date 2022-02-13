@@ -32,7 +32,6 @@ https://lnvisible-friends[.]com/
 - Tells you to [Mint](https://101blockchains.com/nft-minting/) the NFTs and the **FAKE** price!
 - Wants you to login with your MetaWallet Account!
 - Information about the Website IP you can find above.
-- I **THINK** the Base Website ```https://[...].safemintservices.io/``` is used for other Scam!
 
 ## Real Website
 
