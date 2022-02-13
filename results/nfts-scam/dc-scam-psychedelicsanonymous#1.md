@@ -42,7 +42,7 @@ https://psychedelic.mintapp[.]site/
     - [Psychedelics Anonymous](https://twitter.com/psychedelic_nft)
     - Official Discord can be Found also on the Twitter!
 
-## Example Screenshot
+## Example Screenshot of Spam Message
 
 ![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/screenshots/scrnsht-psychedelics-anyn%231.png)
 
