@@ -9,6 +9,8 @@
 - [PROGRAMMS](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips/programms)
 - [OTHER](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips/other)
 
+- [Text File with all IPs i found]()
+
 ## Socials
 
 ### Discord
