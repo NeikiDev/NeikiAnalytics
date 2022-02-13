@@ -41,7 +41,7 @@
     - [Invisible Friends Twitter](https://twitter.com/InvsbleFriends)
     - Official Discord can be Found also on the Twitter!
 
-## Example Screenshot
+## Example Screenshot of Spam Message
 
 ![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/screenshots/scrnsht-invisblefriends%232.png)
 
