@@ -11,10 +11,6 @@
 
 ### Sende mir eine DM auf Discord oder Twitter!
 
-# HOW TO DEFEND YOURSELF FROM ATTACKS
-
-**[Here you can find my Help page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)**
-
 ## English 
 
 * (🔎) Do you have (a) suspicious file(s)?
@@ -25,6 +21,10 @@
 - [ ] Write me on [Discord](https://discord.com/users/416999341006520321) or [Twitter](https://twitter.com/neiki__) a direct message for the status of your entry!
 
 ### DM me on Discord or Twitter!
+
+# HOW TO DEFEND YOURSELF FROM ATTACKS
+
+**[Here you can find my Help page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)**
 
 ## Progress - Results
 
