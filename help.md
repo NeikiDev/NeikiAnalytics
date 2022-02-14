@@ -27,7 +27,7 @@
     - You can also send me the file and i will check it for you!
         - You can find more Information here: [NeikiAnalytics](https://github.com/neikidev/neikianalytics)
 
-# ALWAYS DO RESEARCH ON FILES OR URLS BEFORE DOWNLOADING / OPEN!
+# ALWAYS DO RESEARCH ON FILES OR URLS BEFORE DOWNLOADING!
 
 ![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/robots-doing-data-research.png)
 
