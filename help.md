@@ -1,6 +1,6 @@
 # NeikiAnalytics - Help
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/screenshots/banner.png)
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/banner.png)
 
 ## What can you do against a Attack (Malware / Phishing / Other)
 
