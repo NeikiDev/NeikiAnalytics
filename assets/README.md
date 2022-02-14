@@ -2,7 +2,7 @@
 
 # DISCLAIMER
 
-![]()
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/stickman-showing-stop-sign.png)
 
 ## DONT USE THIS FILES FOR YOUR OWN! NO PERMISSION
 - **Read the bottom of [NeikiAnalytics - Homepage](https://github.com/neikidev/neikianalytics)!**
