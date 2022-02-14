@@ -33,7 +33,7 @@ https://sixthreseau[.]com/
 
 ## Discord Message Embed Image
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/screenshots/scrnsht-sixthreseau-embed.png)
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/scrnsht-sixthreseau-embed.png)
 
 ## Real Website
 
@@ -44,7 +44,7 @@ https://sixthreseau[.]com/
 
 ## Example Screenshot of Spam Message
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/screenshots/scrnsht-sixthreseau%231.png)
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/scrnsht-sixthreseau%231.png)
 
 
 ## How to be Secrure of this!
