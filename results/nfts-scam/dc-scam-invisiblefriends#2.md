@@ -43,7 +43,7 @@
 
 ## Example Screenshot of Spam Message
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/screenshots/scrnsht-invisblefriends%232.png)
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/scrnsht-invisblefriends%232.png)
 
 
 ## How to be Secrure of this!
