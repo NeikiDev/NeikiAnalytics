@@ -1,6 +1,6 @@
 <h1 align="center">NeikiAnalytics</h1>
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/antivirus-fight-with-hackers.png)](#)
+[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/antivirus-fight-with-hackers.png)](#image--assets-disclaimer)
 
 ## German 
 
@@ -26,7 +26,7 @@
 
 # [HOW TO DEFEND YOURSELF FROM ATTACKS](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/testing.png)](#)
+[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/testing.png)](#image--assets-disclaimer)
 
 **[Here you can find my Help page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)**
 
@@ -37,7 +37,7 @@
 
 # Socials
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/design-and-development-process.png)](#)
+[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/design-and-development-process.png)](#image--assets-disclaimer)
 
 ### Discord
 ```
@@ -49,7 +49,7 @@ Neiki#4405
 neikianalytics@gmail.com 
 ```
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/banner.png)](#)
+[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/banner.png)](#image--assets-disclaimer)
 
 ## Information
 - I will also check **suspicious links / URLs**
@@ -70,6 +70,6 @@ neikianalytics@gmail.com
     - Dont copy this images or downloading it!
     - If you have a [Iconscout](https://iconscout.com/) license please donwload it from their website!
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/stickman-showing-stop-sign.png)](#)
+[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/stickman-showing-stop-sign.png)](#image--assets-disclaimer)
 
-Made by **[Neiki](https://github.com/neikidev)** <p align="right">[Back to Top](https://github.com/neikidev/neikianalytics)</p>
+Made by **[Neiki](https://github.com/neikidev)** <p align="right">[Back to Top](https://github.com/neikidev/neikianalytics#neikianalytics)</p>
