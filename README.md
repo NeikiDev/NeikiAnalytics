@@ -11,6 +11,9 @@
 
 ### Sende mir eine DM auf Discord oder Twitter!
 
+# HOW TO DEFEND YOURSELF FROM ATTACKS
+
+[Here you can find my Help page](https://github.com/neikidev/neikianalytics/help.md)
 
 ## English 
 
