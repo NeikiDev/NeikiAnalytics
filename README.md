@@ -1,4 +1,4 @@
-# NeikiAnalytics
+<h1 style="color: green" ,align="center">NeikiAnalytics</h1>
 
 ![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/antivirus-fight-with-hackers.png)
 
@@ -71,3 +71,5 @@ neikianalytics@gmail.com
     - If you have a [Iconscout](https://iconscout.com/) license please donwload it from their website!
 
 ![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/stickman-showing-stop-sign.png)
+
+Made by **[Neiki](https://github.com/neikidev)** <p align="right">[Back to Top](https://github.com/neikidev/neikianalytics)</p>
