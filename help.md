@@ -27,12 +27,18 @@
     - You can also send me the file and i will check it for you!
         - You can find more Information here: [NeikiAnalytics](https://github.com/neikidev/neikianalytics)
 
+# ALWAYS DO RESEARCH BEFORE DOWNLOADING FILES OR CLICKING URLs!
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/robots-doing-data-research.png)
+
 ## Progress - Results
 
 - [Results of submissions](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results)
 - [Collection of dangerous Ips](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips)
 
-## Socials
+# Socials
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/design-and-development-process.png)
 
 ### Discord
 ```
