@@ -1,7 +1,5 @@
 <h1 align="center">NeikiAnalytics</h1>
 
-<img src="https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/antivirus-fight-with-hackers.png" />
-
 ![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/antivirus-fight-with-hackers.png)
 
 ## German 
