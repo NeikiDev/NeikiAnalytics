@@ -58,4 +58,15 @@ neikianalytics@gmail.com
 - I make this as a hobby!
 - I try my best but I can't guarantee 100% security
 
-## Questions? Only write me a DM 😊
+# Questions? Only write me a DM 😊
+
+## Image / Assets Disclaimer
+
+- [ ] Im using my own screenshots
+- [ ] Im using screenshots from users / submissions with permission
+- [ ] The illustrations are from [Iconscout](https://iconscout.com/) 
+    - Im using my Github Pro license for the Images from [Iconscout](https://iconscout.com/) 
+    - Dont copy this images or downloading it!
+    - If you have a [Iconscout](https://iconscout.com/) license please donwload it from their website!
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/stickman-showing-stop-sign.png)
