@@ -1,5 +1,7 @@
 # NeikiAnalytics
 
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/screenshots/banner.png)
+
 ## German 
 
 * (🔎) Du hast eine Datei die dir komisch vorkommt? 
