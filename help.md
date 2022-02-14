@@ -63,9 +63,9 @@ neikianalytics@gmail.com
 
 
 ### Image / Assets Disclaimer
-- [] Im using my own screenshots
-- [] Im using screenshots from users / submissions with permission
-- [] The illustrations are from [Iconscout](https://iconscout.com/) 
+- [ ] Im using my own screenshots
+- [ ] Im using screenshots from users / submissions with permission
+- [ ] The illustrations are from [Iconscout](https://iconscout.com/) 
     - Im using my Github Pro license for the Images from [Iconscout](https://iconscout.com/) 
     - Dont copy this images or downloading it!
     - If you have a [Iconscout](https://iconscout.com/) license please donwload it from their website!
