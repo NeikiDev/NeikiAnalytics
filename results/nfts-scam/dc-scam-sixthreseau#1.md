@@ -1,11 +1,9 @@
-# Discord NFT (Mint) Scam / Phishing
+# Discord NFT (Mint) Scam / Phishing (13.02.2022)
 
 **IMPORTANT**
 - Click the link(s) at your own risk!
 
-## Fake Website (Scam / Phishing) 
-
-## Domain has been taken down! (Always report this Websites)
+# Domain has been taken down! (Report of Phishing / Scam)
 ```
 https://sixthreseau[.]com/
 ```
@@ -32,7 +30,6 @@ https://sixthreseau[.]com/
 - Wants you to login with your MetaWallet Account!
 - Information about the Website IP you can find above.
 - The Discord message is deliverd with an Image that seems Real!
-
 
 ## Discord Message Embed Image
 
