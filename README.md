@@ -62,6 +62,7 @@ neikianalytics@gmail.com
 
 ## Image / Assets Disclaimer
 
+- [ ] **Images / Assets NOT FREE TO USE**
 - [ ] Im using my own screenshots
 - [ ] Im using screenshots from users / submissions with permission
 - [ ] The illustrations are from [Iconscout](https://iconscout.com/) 
