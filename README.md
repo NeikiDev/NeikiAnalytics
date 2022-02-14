@@ -13,7 +13,7 @@
 
 # HOW TO DEFEND YOURSELF FROM ATTACKS
 
-[Here you can find my Help page](https://github.com/neikidev/neikianalytics/help.md)
+**[Here you can find my Help page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)**
 
 ## English 
 
