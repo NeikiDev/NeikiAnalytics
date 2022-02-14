@@ -1,6 +1,6 @@
 # NeikiAnalytics
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/banner.png)
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/antivirus-fight-with-hackers.png)
 
 ## German 
 
@@ -24,7 +24,9 @@
 
 ### DM me on Discord or Twitter!
 
-# HOW TO DEFEND YOURSELF FROM ATTACKS
+# [HOW TO DEFEND YOURSELF FROM ATTACKS](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/testing.png)
 
 **[Here you can find my Help page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)**
 
@@ -33,7 +35,9 @@
 - [Results of submissions](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results)
 - [Collection of dangerous Ips](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips)
 
-## Socials
+# Socials
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/design-and-development-process.png)
 
 ### Discord
 ```
@@ -44,6 +48,8 @@ Neiki#4405
 ```
 neikianalytics@gmail.com 
 ```
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/banner.png)
 
 ## Information
 - I will also check **suspicious links / URLs**
