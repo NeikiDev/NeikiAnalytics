@@ -1,5 +1,7 @@
 # NeikiAnalytics [RESULTS]
 
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/testing.png)
+
 ## Information
 - Here you can find all Results submissions
 
@@ -9,7 +11,9 @@
 - [RATS](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results/rats)
 - [NFTs SCAM](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results/nfts-scam)
 
-## Socials
+# Socials
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/design-and-development-process.png)
 
 ### Discord
 ```
@@ -20,5 +24,14 @@ Neiki#4405
 ```
 neikianalytics@gmail.com 
 ```
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/banner.png)
+
+## Information
+- I will also check **suspicious links / URLs**
+- I will not publish privat data or files!
+- I will review your submission as soon as i can!
+- I make this as a hobby!
+- I try my best but I can't guarantee 100% security
 
 ## Questions? Only write me a DM 😊
