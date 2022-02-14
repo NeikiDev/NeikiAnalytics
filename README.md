@@ -1,4 +1,4 @@
-<h1 align="center">NeikiAnalytics</h1>
+<h1 align="center" style="color: green">NeikiAnalytics</h1>
 
 ![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/antivirus-fight-with-hackers.png)
 
