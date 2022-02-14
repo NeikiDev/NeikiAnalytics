@@ -42,7 +42,7 @@ https://lnvisible-friends[.]com/
 
 ## Example Screenshot of Spam Message
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/screenshots/scrnsht-invisiblefriends%233.png)
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/scrnsht-invisiblefriends%233.png)
 
 
 ## How to be Secrure of this!
