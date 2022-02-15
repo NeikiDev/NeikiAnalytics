@@ -57,7 +57,9 @@ neikianalytics@gmail.com
 - I will review your submission as soon as i can!
 - I make this as a hobby!
 - I try my best but I can't guarantee 100% security
-
+- I do this for **FREE** (Dont want any payment for anything)
+- I want to help people who dont understand much about cyber security!
+- I want to get better in this stuff for the Futur!
 # Questions? Only write me a DM 😊
 
 ## Image / Assets Disclaimer
