@@ -118,9 +118,9 @@ neikianalytics@gmail.com
 ## Support me
 
 **IMPORTANT**
-> My support is completely Free!
-> Spend Money / Crypto only if you have it!
-> A Twitter follow is enough for me ^^
+\> My support is completely Free!
+\> Spend Money / Crypto only if you have it!
+\> A Twitter follow is enough for me ^^
 
 - [ ] You can easily Support me for **FREE**!!
     - [x] Use my Support!
