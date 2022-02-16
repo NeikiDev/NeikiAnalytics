@@ -119,24 +119,32 @@ neikianalytics@gmail.com
 <h1 align="center">Support me</h1>
 
 ## IMPORTANT
-<p align="left">My support is completely Free!</p>
-<p align="left">Spend Money / Crypto only if you have it!</p>
-<p align="left">A Twitter follow is enough for me ^^</p>
+- My support is completely Free!
+- Spend Money / Crypto only if you have it!
+- A Twitter follow is enough for me ^^
 
-- [ ] You can easily Support me for **FREE**!!
-    - [x] Use my Support!
-    - [x] Follow me on [Twitter](https://twitter.com/neiki__)
-    - [x] Read my [Help Page]() and follow the Steps!
-    - [x] Follow / Star this Github Repo!
-    - [x] Show your friends my Support!
-- [ ] **More Support** (YOU DONT HAVE TO SPEND SOMETHING! ONLY IF YOU WANT)
-    - Crypto Adresses (BTC / ETH)
-        - [x] ETH: `0x610c8AE6d75eD734b690DF1eb0E943523C3B47F8`
-        - [x] BTC: `354wVYavWF4uW8eGE8aQKdTJCGoPuo1uiT`
-        - [x] Other on Request!
-    - Paypal
-        - [x] [My StreamElements Tipping Page](https://streamelements.com/neikishbzt/tip)
-        - [x] [Paypal NeikiSHBZT](https://paypal.me/neikishbzt)
+**Support me for FREE**
+- [x] Use my Support!
+- [x] Follow me on [Twitter](https://twitter.com/neiki__)
+- [x] Read my [Help Page]() and follow the Steps!
+- [x] Follow / Star this Github Repo!
+- [x] Show your friends my Support!
+
+**More Support** (YOU DONT HAVE TO SPEND SOMETHING! ONLY IF YOU WANT)
+- Crypto Adresses
+**ETH**
+```
+0x610c8AE6d75eD734b690DF1eb0E943523C3B47F8
+```
+**BTC**
+```
+354wVYavWF4uW8eGE8aQKdTJCGoPuo1uiT
+```
+(Other on Request!)
+
+- Paypal
+    - [x] [My StreamElements Tipping Page](https://streamelements.com/neikishbzt/tip)
+    - [x] [Paypal NeikiSHBZT](https://paypal.me/neikishbzt)
 
 
 Made by **[Neiki](https://github.com/neikidev)** <p align="right">[Back to Top](https://github.com/neikidev/neikianalytics#neikianalytics)</p>
