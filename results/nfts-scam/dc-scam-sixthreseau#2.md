@@ -3,6 +3,10 @@
 **IMPORTANT**
 - Click the link(s) at your own risk!
 
+# Domain has been taken down! (Report of Phishing / Scam)
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/domain_down%232.jpg)
+
 ## Domain 
 ```
 https://sixthreseau[.]shop/presale.html
