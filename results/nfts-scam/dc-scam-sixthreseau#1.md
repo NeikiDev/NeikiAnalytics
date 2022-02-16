@@ -5,7 +5,7 @@
 
 # Domain has been taken down! (Report of Phishing / Scam)
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/domain_down%231.jpg)
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/domain_down_1.jpg)
 
 ## Domain
 ```
