@@ -2,7 +2,7 @@
 
 [![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/antivirus-fight-with-hackers.png)](#image--assets-disclaimer)
 
-# Table of content
+<h1 align="center">Table of content</h1>
 
 - [ ] [Need Help?](https://github.com/NeikiDev/NeikiAnalytics#neikianalytics)
     - [German](https://github.com/NeikiDev/NeikiAnalytics#german)
@@ -46,7 +46,7 @@
 
 **[Here you can find my Help page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)**
 
-## Newest Results / Updates
+<h1 align="center">Newest Results / Updates</h1>
 
 [![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/robots-doing-data-research.png)](#image--assets-disclaimer)
 
@@ -71,12 +71,12 @@
 - [x] Im not partnerd with [sixthreseau](https://twitter.com/sixthreseau) or other NFT projects! 
 - [x] AD or partnerd stuff is clearly marked! 
 
-## Progress - Results
+<h1 align="center">Progress - Results</h1>
 
 - [Results of submissions](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results)
 - [Collection of dangerous Ips](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips)
 
-# Socials
+<h1 align="center">Socials</h1>
 
 [![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/design-and-development-process.png)](#image--assets-disclaimer)
 
@@ -92,7 +92,8 @@ neikianalytics@gmail.com
 
 [![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/banner.png)](#image--assets-disclaimer)
 
-## Information
+<h1 align="center">Information</h1>
+
 - I will also check **suspicious links / URLs**
 - I will not publish privat data or files!
 - I will review your submission as soon as i can!
@@ -103,7 +104,7 @@ neikianalytics@gmail.com
 - I want to get better in this stuff for the Futur!
 # Questions? Only write me a DM 😊
 
-## Image / Assets Disclaimer
+<h1 align="center">Image / Assets Disclaimer</h1>
 
 - [ ] **Images / Assets NOT FREE TO USE**
 - [ ] Im using my own screenshots
@@ -115,12 +116,12 @@ neikianalytics@gmail.com
 
 [![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/stickman-showing-stop-sign.png)](#image--assets-disclaimer)
 
-## Support me
+<h1 align="center">Support me</h1>
 
-**IMPORTANT**
-\> My support is completely Free!
-\> Spend Money / Crypto only if you have it!
-\> A Twitter follow is enough for me ^^
+## IMPORTANT
+<p align="left">My support is completely Free!</p>
+<p align="left">Spend Money / Crypto only if you have it!</p>
+<p align="left">A Twitter follow is enough for me ^^</p>
 
 - [ ] You can easily Support me for **FREE**!!
     - [x] Use my Support!
