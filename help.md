@@ -4,10 +4,11 @@
 
 ## What can you do against a Attack (Malware / Phishing / Other)
 
-- [ ] Discord DM Scam / Phishing
+- [ ] Twitter / Discord DM Scam / Phishing
     - Always check the URL on [VirusTotal](https://virustotal.com)
     - Check the URL on the Internet, If you find any information!
     - Check the URL for typos
+    - Check the User on the Internet (Twitter)
     - Always keep your Browser and AntiVirus Programm on the newest Version!
         - I use [Bitdefender](https://www.bitdefender.com/)
         - All other AntiVirus programms also work
