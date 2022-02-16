@@ -3,18 +3,19 @@
 [![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/antivirus-fight-with-hackers.png)](#image--assets-disclaimer)
 
 ## Table of content
-    - [ ] [Need Help?](https://github.com/NeikiDev/NeikiAnalytics#neikianalytics)
-        - [German](https://github.com/NeikiDev/NeikiAnalytics#german)
-        - [English](https://github.com/NeikiDev/NeikiAnalytics#english)
-    - [ ] [HOW TO DEFEND YOURSELF FROM ATTACKS](https://github.com/NeikiDev/NeikiAnalytics#how-to-defend-yourself-from-attacks)
-    - [ ] [Newest Results and Updates](https://github.com/NeikiDev/NeikiAnalytics#newest-results--updates)
-    - [ ] [Progress](https://github.com/NeikiDev/NeikiAnalytics#progress---results)
-    - [ ] [Socials](https://github.com/NeikiDev/NeikiAnalytics#socials)    
-        - [Discord](https://github.com/NeikiDev/NeikiAnalytics#discord)
-        - [Email](https://github.com/NeikiDev/NeikiAnalytics#email)
-    - [ ] [General informations](https://github.com/NeikiDev/NeikiAnalytics#information)
-    - [ ] [Questions?](https://github.com/NeikiDev/NeikiAnalytics#questions-only-write-me-a-dm-)
-    - [ ] [Disclaimer - Assets not free to use](https://github.com/NeikiDev/NeikiAnalytics#image--assets-disclaimer)
+
+- [ ] [Need Help?](https://github.com/NeikiDev/NeikiAnalytics#neikianalytics)
+    - [German](https://github.com/NeikiDev/NeikiAnalytics#german)
+    - [English](https://github.com/NeikiDev/NeikiAnalytics#english)
+- [ ] [HOW TO DEFEND YOURSELF FROM ATTACKS](https://github.com/NeikiDev/NeikiAnalytics#how-to-defend-yourself-from-attacks)
+- [ ] [Newest Results and Updates](https://github.com/NeikiDev/NeikiAnalytics#newest-results--updates)
+- [ ] [Progress](https://github.com/NeikiDev/NeikiAnalytics#progress---results)
+- [ ] [Socials](https://github.com/NeikiDev/NeikiAnalytics#socials)    
+    - [Discord](https://github.com/NeikiDev/NeikiAnalytics#discord)
+    - [Email](https://github.com/NeikiDev/NeikiAnalytics#email)
+- [ ] [General informations](https://github.com/NeikiDev/NeikiAnalytics#information)
+- [ ] [Questions?](https://github.com/NeikiDev/NeikiAnalytics#questions-only-write-me-a-dm-)
+- [ ] [Disclaimer - Assets not free to use](https://github.com/NeikiDev/NeikiAnalytics#image--assets-disclaimer)
 
 ## German 
 
