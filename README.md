@@ -2,7 +2,7 @@
 
 [![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/antivirus-fight-with-hackers.png)](#image--assets-disclaimer)
 
-## Table of content
+# Table of content
 
 - [ ] [Need Help?](https://github.com/NeikiDev/NeikiAnalytics#neikianalytics)
     - [German](https://github.com/NeikiDev/NeikiAnalytics#german)
