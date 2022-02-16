@@ -4,7 +4,8 @@
 - Click the link(s) at your own risk!
 
 ## Information
-I think everybody sees and thinks that this thing is **FAKE** and **SCAM**
+- [x] I think everybody sees and thinks that this thing is **FAKE** and **SCAM**
+- [x] **DONT CLICK THIS LINKS**
 
 # Screenshots
 
