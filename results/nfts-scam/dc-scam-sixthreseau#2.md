@@ -3,7 +3,7 @@
 **IMPORTANT**
 - Click the link(s) at your own risk!
 
-# Domain has been taken down! (Report of Phishing / Scam)
+## Domain 
 ```
 https://sixthreseau[.]shop/presale.html
 ```
