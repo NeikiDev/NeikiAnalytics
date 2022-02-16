@@ -131,7 +131,8 @@ neikianalytics@gmail.com
 - [x] Show your friends my Support!
 
 **More Support** (YOU DONT HAVE TO SPEND SOMETHING! ONLY IF YOU WANT)
-- Crypto Adresses
+- Crypto Adresses 
+
 **ETH**
 ```
 0x610c8AE6d75eD734b690DF1eb0E943523C3B47F8
