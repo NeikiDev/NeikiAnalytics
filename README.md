@@ -36,6 +36,8 @@
 
 - Fake [sixthreseau]() Scam Discord Direct-Message
     - [x] [Direct Link to the Page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%231.md)   
+- Updated Help Page (IMPORTANT TO READ)
+    - [x] [Direct Link to the Page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)   
 - Update [Suspicious-ips]()
     - [x] [Direct Link to the Page](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips)   
 - Twitter Fake Giveaway
