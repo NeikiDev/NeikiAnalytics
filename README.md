@@ -30,6 +30,21 @@
 
 **[Here you can find my Help page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)**
 
+[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/robots-doing-data-research.png)](#image--assets-disclaimer)
+
+## Newest Results / Updates
+
+- Fake [sixthreseau]() Scam Discord Direct-Message
+    - [x] [Direct Link to the Page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%231.md)   
+- Update [Suspicious-ips]()
+    - [x] [Direct Link to the Page](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips)   
+- Twitter Fake Giveaway
+    - [x] [Direct Link to the Page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/phishing/twitter-fakeGiveaway-group%231.md)   
+- Fake [sixthreseau]() Website got taken down!
+    - [x] [Direct Link to the Page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%232.md)   
+- Results welcome page Update
+    - [x] [Direct Link to the Page](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results)
+
 ## Progress - Results
 
 - [Results of submissions](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results)
@@ -48,21 +63,6 @@ Neiki#4405
 ```
 neikianalytics@gmail.com 
 ```
-
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/robots-doing-data-research.png)](#image--assets-disclaimer)
-
-## Newest Results / Updates
-
-- Fake [sixthreseau]() Scam Discord Direct-Message
-    - [x] [Direct Link to the Page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%231.md)   
-- Update [Suspicious-ips]()
-    - [x] [Direct Link to the Page](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips)   
-- Twitter Fake Giveaway
-    - [x] [Direct Link to the Page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/phishing/twitter-fakeGiveaway-group%231.md)   
-- Fake [sixthreseau]() Website got taken down!
-    - [x] [Direct Link to the Page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%232.md)   
-- Results welcome page Update
-    - [x] [Direct Link to the Page](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results)
 
 [![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/banner.png)](#image--assets-disclaimer)
 
