@@ -35,20 +35,20 @@
 [![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/robots-doing-data-research.png)](#image--assets-disclaimer)
 
 - Fake **sixthreseau** Scam Discord Direct-Message
-    - [x] [Click here to read the Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%231.md)   
+    - [ ] [Click here to read the Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%231.md)   
 - Updated Help Page (IMPORTANT TO READ)
-    - [x] [Click here to read the Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)   
+    - [ ] [Click here to read the Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)   
 - Update Suspicious-ips
-    - [x] [Click here to read the Article](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips)   
+    - [ ] [Click here to read the Article](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips)   
 - Twitter Fake Giveaway
-    - [x] [Click here to read the Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/phishing/twitter-fakeGiveaway-group%231.md)   
+    - [ ] [Click here to read the Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/phishing/twitter-fakeGiveaway-group%231.md)   
 - Fake **sixthreseau** Website got taken down!
-    - [x] [Click here to read the Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%232.md)   
+    - [ ] [Click here to read the Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%232.md)   
 - Results welcome page Update
-    - [x] [Click here to read the Article](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results)
+    - [ ] [Click here to read the Article](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results)
 
-**(!)** Im not partnerd with [sixthreseau](https://twitter.com/sixthreseau) or other NFT projects!
-**(!)** AD or partnerd stuff is clearly marked!
+- [x] Im not partnerd with [sixthreseau](https://twitter.com/sixthreseau) or other NFT projects! 
+- [x] AD or partnerd stuff is clearly marked! 
 
 ## Progress - Results
 
