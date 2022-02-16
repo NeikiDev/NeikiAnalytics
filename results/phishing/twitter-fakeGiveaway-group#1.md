@@ -6,6 +6,7 @@
 ## Information
 - [x] I think everybody sees and thinks that this thing is **FAKE** and **SCAM**
 - [x] **DONT CLICK THIS LINKS**
+- [x] Block the guy who added you to the Group!
 
 # Screenshots
 
