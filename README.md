@@ -47,6 +47,7 @@
 - Results welcome page Update
     - [ ] [Click here to read the Article](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results)
 
+*Info*
 - [x] Im not partnerd with [sixthreseau](https://twitter.com/sixthreseau) or other NFT projects! 
 - [x] AD or partnerd stuff is clearly marked! 
 
