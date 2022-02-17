@@ -52,7 +52,7 @@
 
 **Top 10 Newest Updates / Results**
 
-- (17.02.2022 / 17:15) = Another Fake **sixthreseau** Website appeard! (Hopefully soon DOWN)
+- (17.02.2022 / 17:15) - Another Fake **sixthreseau** Website appeard! (Hopefully soon DOWN)
     - [ ] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%233.md)
 - (17.02.2022 / 17:14) - Update Suspicious-ips
     - [ ] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips)   
