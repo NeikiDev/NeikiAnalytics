@@ -68,7 +68,10 @@
     - [x] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)   
 8. (16.02.2022 / 13:45) - Fake **sixthreseau** Scam Discord Direct-Message
     - [x] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%231.md)   
-
+9. (00.00.0000 / 00:00) - [...]
+    - [ ] Article not published yet!
+10. (00.00.0000 / 00:00) - [...]
+    - [ ] Article not published yet!
 *Info*
 - [x] Im not partnerd with [sixthreseau](https://twitter.com/sixthreseau) or other NFT projects! 
 - [x] AD or partnerd stuff is clearly marked! 
