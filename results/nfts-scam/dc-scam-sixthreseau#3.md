@@ -1,4 +1,4 @@
-# Discord NFT (Mint) Scam / Phishing (16.02.2022)
+# Discord NFT (Mint) Scam / Phishing (17.02.2022)
 
 **IMPORTANT**
 - Click the link(s) at your own risk!
