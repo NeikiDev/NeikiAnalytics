@@ -53,21 +53,21 @@
 **Top 10 Newest Updates / Results**
 
 1. (17.02.2022 / 17:15) - Another Fake **sixthreseau** Website appeard! (Hopefully soon DOWN)
-    - [ ] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%233.md)
+    - [x] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%233.md)
 2. (17.02.2022 / 17:14) - Update Suspicious-ips
-    - [ ] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips)   
+    - [x] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/tree/main/suspicious-ips)   
 3. (16.02.2022 / 18:20) - Second Fake **sixthreseau** Website got taken down! 
-    - [ ] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%232.md)   
+    - [x] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%232.md)   
 4. (16.02.2022 / 15:00) - Results welcome page Update
-    - [ ] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results)
+    - [x] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/tree/main/results)
 5. (16.02.2022 / 15:00) - Fake **sixthreseau** Website got taken down!
-    - [ ] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%232.md)   
+    - [x] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%232.md)   
 6. (16.02.2022 / 14:12) - Twitter Fake Giveaway 
-    - [ ] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/phishing/twitter-fakeGiveaway-group%231.md)   
+    - [x] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/phishing/twitter-fakeGiveaway-group%231.md)   
 7. (16.02.2022 / 13:45) - Updated Help Page (IMPORTANT TO READ)
-    - [ ] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)   
+    - [x] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)   
 8. (16.02.2022 / 13:45) - Fake **sixthreseau** Scam Discord Direct-Message
-    - [ ] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%231.md)   
+    - [x] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%231.md)   
 
 *Info*
 - [x] Im not partnerd with [sixthreseau](https://twitter.com/sixthreseau) or other NFT projects! 
