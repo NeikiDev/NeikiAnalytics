@@ -38,11 +38,9 @@ https://sixthreseau[.]live/presale.html
     - [SixthRéseau Twitter](https://twitter.com/SixthReseau/)
     - [Official SixthRéseau Discord](https://discord.gg/reseau)
 
-## Bitdefender **BLOCKS** direct IP! (Its German)
+## Bitdefender **BLOCKS** direct IP (HTTPS)!
 
-> Translation: The website got blocked because of the Verification this Website! (security certificate)
-
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/bitdefender_block_1.png)
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/bitdefender_block_0.png)
 
 ## Example Screenshot of Spam Message
 
