@@ -3,7 +3,8 @@
 **IMPORTANT**
 - Click the link(s) at your own risk!
 
-# Domain has been taken down! (Report of Phishing / Scam) - (25.02.2022)
+### Update - (25.02.2022)
+# Domain has been taken down! (Report of Phishing / Scam)
 
 ## Report Message (Twitter Fast Respon)
 
