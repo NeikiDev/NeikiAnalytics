@@ -53,7 +53,7 @@
 **Top 10 Newest Updates / Results**
 
 - (25.02.2022 / 11:35) - Fake website **sixthreseau** got TAKEN DOWN!
-    -- [x] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%233.md)
+    - [x] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%233.md)
 - (17.02.2022 / 17:15) - Another Fake **sixthreseau** Website appeard! (Update: DOWN)
     - [x] [Click here to read the full Article](https://github.com/NeikiDev/NeikiAnalytics/blob/main/results/nfts-scam/dc-scam-sixthreseau%233.md)
 - (17.02.2022 / 17:14) - Update Suspicious-ips
