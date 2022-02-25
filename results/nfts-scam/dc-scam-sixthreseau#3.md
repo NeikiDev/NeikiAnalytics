@@ -3,6 +3,28 @@
 **IMPORTANT**
 - Click the link(s) at your own risk!
 
+# Domain has been taken down! (Report of Phishing / Scam)
+
+## Report Message (Twitter Fast Respon)
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/report_message_1.png)
+
+## Bitdefender blocks Website (https & direct ip)
+
+### Https
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/bitdefender_block_https_1.png)
+
+### Direct IP
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/bitdefender_block_direct_1.png)
+
+## Tor Browser (Normal Browser blocks also https)
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/TorBrowser_googlechrome_block_1.png)
+
+## Website not found!
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/website_notfound_takedown_1.png)
+
 ## Domain 
 ```
 https://sixthreseau[.]live/presale.html
