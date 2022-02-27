@@ -149,4 +149,9 @@ neikianalytics@gmail.com
 ```
 (Other on Request!)
 
+**Official Twitter:**
+
+- [Main Twitter](https://twitter.com/neiki__)
+- [Bot Account](https://twitter.com/neikianalytics)
+
 Made by **[Neiki](https://github.com/neikidev)** <p align="right">[Back to Top](https://github.com/neikidev/neikianalytics#neikianalytics)</p>
