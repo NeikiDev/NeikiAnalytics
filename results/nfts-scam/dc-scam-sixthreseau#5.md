@@ -3,6 +3,17 @@
 **IMPORTANT**
 - Click the link(s) at your own risk!
 
+### Update - (28.02.2022)
+# Domain has been taken down! (Report of Phishing / Scam)
+
+## Report Message (Email / Twitter very Fast)
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/report_email_succes_01.png)
+
+## Website not found (Take Down)!
+
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/website_takedown_03.png)
+
 ## Domain 
 ```
 https://sixth-reseau[.]net/
