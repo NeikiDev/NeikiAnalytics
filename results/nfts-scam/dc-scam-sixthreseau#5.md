@@ -12,7 +12,7 @@
 
 ## Website not found (Take Down)!
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/website_takedown_03.png)
+![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/website_domain_down_01.png)
 
 ## Domain 
 ```
