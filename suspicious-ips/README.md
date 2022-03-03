@@ -15,7 +15,7 @@
 
 # Socials
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/design-and-development-process.png)](#)
+[![](https://neikianalytics.com/analytics/assets/images/design-and-development-process.png)](#)
 
 ### Discord
 ```
@@ -26,7 +26,7 @@ Neiki#4405
 ```
 neikianalytics@gmail.com 
 ```
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/banner.png)](#)
+[![](https://neikianalytics.com/analytics/assets/images/banner.png)](#)
 
 ## Information
 - I will also check **suspicious links / URLs**

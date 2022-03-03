@@ -8,23 +8,23 @@
 
 ## Report Message (Twitter Fast Respon)
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/report_message_1.png)
+![](https://neikianalytics.com/analytics/assets/images/a/report_message_1.png)
 
 ## Bitdefender blocks Website (https & direct ip)
 
 ### Https
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/bitdefender_block_https_1.png)
+![](https://neikianalytics.com/analytics/assets/images/a/bitdefender_block_https_1.png)
 
 ### Direct IP
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/bitdefender_block_direct_1.png)
+![](https://neikianalytics.com/analytics/assets/images/a/bitdefender_block_direct_1.png)
 
 ## Tor Browser (Normal Browser blocks also https)
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/TorBrowser_googlechrome_block_1.png)
+![](https://neikianalytics.com/analytics/assets/images/a/TorBrowser_googlechrome_block_1.png)
 
 ## Website not found!
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/website_notfound_takedown_1.png)
+![](https://neikianalytics.com/analytics/assets/images/a/website_notfound_takedown_1.png)
 
 ## Domain 
 ```
@@ -63,11 +63,11 @@ https://sixthreseau[.]live/presale.html
 
 ## Bitdefender **BLOCKS** direct IP (HTTPS)!
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/bitdefender_block_0.png)
+![](https://neikianalytics.com/analytics/assets/images/a/bitdefender_block_0.png)
 
 ## Example Screenshot of Spam Message
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/scrnsht-sixth%233.png)
+![](https://neikianalytics.com/analytics/assets/images/a/scrnsht-sixth%233.png)
 
 ## How to be Secrure of this!
 

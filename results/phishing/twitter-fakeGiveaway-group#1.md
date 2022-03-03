@@ -11,10 +11,10 @@
 # Screenshots
 
 ## Screenshot 1
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/twitter-fake-giveaway%231.png)
+![](https://neikianalytics.com/analytics/assets/images/a/twitter-fake-giveaway%231.png)
 
 ## Screenshot 2
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/twitter-fake-giveaway%232.png)
+![](https://neikianalytics.com/analytics/assets/images/a/twitter-fake-giveaway%232.png)
 
 **Disclaimer**
 > Dont go to this website! Its completly **FAKE** and **SCAM**

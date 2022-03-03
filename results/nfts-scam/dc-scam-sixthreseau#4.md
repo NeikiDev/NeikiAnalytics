@@ -39,7 +39,7 @@ https://sixthreseaunft[.]com/
 
 ## Example Screenshot of Spam Message
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/scrnsht-sixthreseau_40.png)
+![](https://neikianalytics.com/analytics/assets/images/a/scrnsht-sixthreseau_40.png)
 
 ## How to be Secrure of this!
 

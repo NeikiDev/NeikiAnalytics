@@ -8,11 +8,11 @@
 
 ## Report Message (Email / Twitter very Fast)
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/report_email_succes_01.png)
+![](https://neikianalytics.com/analytics/assets/images/a/report_email_succes_01.png)
 
 ## Website not found (Take Down)!
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/website_domain_down_01.png)
+![](https://neikianalytics.com/analytics/assets/images/a/website_domain_down_01.png)
 
 ## Domain 
 ```
@@ -50,11 +50,11 @@ https://sixth-reseau[.]net/
 
 ## TorBrowser Warning
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/tor_warning_01.png)
+![](https://neikianalytics.com/analytics/assets/images/a/tor_warning_01.png)
 
 ## BitDefender direct IP block (SSL / HTTPS)
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/bitdefender_warning_01.png)
+![](https://neikianalytics.com/analytics/assets/images/a/bitdefender_warning_01.png)
 
 ## How to be Secrure of this!
 

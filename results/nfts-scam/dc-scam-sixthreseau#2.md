@@ -5,7 +5,7 @@
 
 # Domain has been taken down! (Report of Phishing / Scam)
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/domain_down_002.png)
+![](https://neikianalytics.com/analytics/assets/images/a/domain_down_002.png)
 
 ## Domain 
 ```
@@ -44,7 +44,7 @@ https://sixthreseau[.]shop/presale.html
 
 ## Example Screenshot of Spam Message
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/scrnsht-sixth%232.png)
+![](https://neikianalytics.com/analytics/assets/images/a/scrnsht-sixth%232.png)
 
 *(Changed Discord username! Scam on other Projects too!)*
 

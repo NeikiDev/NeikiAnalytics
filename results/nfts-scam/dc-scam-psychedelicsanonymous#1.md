@@ -44,7 +44,7 @@ https://psychedelic.mintapp[.]site/
 
 ## Example Screenshot of Spam Message
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/scrnsht-psychedelics-anyn%231.png)
+![](https://neikianalytics.com/analytics/assets/images/a/scrnsht-psychedelics-anyn%231.png)
 
 
 ## How to be Secrure of this!

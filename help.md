@@ -1,6 +1,6 @@
 # NeikiAnalytics - Help
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/support.png)](#)
+[![](https://neikianalytics.com/analytics/assets/images/support.png)](#)
 
 ## What can you do against a Attack (Malware / Phishing / Other)
 
@@ -30,7 +30,7 @@
 
 # ALWAYS DO RESEARCH ON FILES OR URLS BEFORE DOWNLOADING!
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/robots-doing-data-research.png)](#)
+[![](https://neikianalytics.com/analytics/assets/images/robots-doing-data-research.png)](#)
 
 ## Progress - Results
 
@@ -39,7 +39,7 @@
 
 # Socials
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/design-and-development-process.png)](#)
+[![](https://neikianalytics.com/analytics/assets/images/design-and-development-process.png)](#)
 
 ### Discord
 ```
@@ -50,7 +50,7 @@ Neiki#4405
 ```
 neikianalytics@gmail.com 
 ```
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/banner.png)](#)
+[![](https://neikianalytics.com/analytics/assets/images/banner.png)](#)
 
 ## Information
 - I will also check **suspicious links / URLs**

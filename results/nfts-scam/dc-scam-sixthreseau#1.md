@@ -5,7 +5,7 @@
 
 # Domain has been taken down! (Report of Phishing / Scam)
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/domain_down_001.jpg)
+![](https://neikianalytics.com/analytics/assets/images/a/domain_down_001.jpg)
 
 ## Domain
 ```
@@ -37,7 +37,7 @@ https://sixthreseau[.]com/
 
 ## Discord Message Embed Image
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/scrnsht-sixthreseau-embed.png)
+![](https://neikianalytics.com/analytics/assets/images/a/scrnsht-sixthreseau-embed.png)
 
 ## Real Website
 
@@ -48,7 +48,7 @@ https://sixthreseau[.]com/
 
 ## Example Screenshot of Spam Message
 
-![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/scrnsht-sixthreseau%231.png)
+![](https://neikianalytics.com/analytics/assets/images/a/scrnsht-sixthreseau%231.png)
 
 
 ## How to be Secrure of this!
