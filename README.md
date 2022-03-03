@@ -1,6 +1,6 @@
 <h1 align="center">NeikiAnalytics</h1>
 
-<h2 align="center">[NeikiAnalytics.com](https://neikianalytics.com/)</h2>
+<h2 align="center">https://NeikiAnalytics.com</h2>
 
 [![](https://neikianalytics.com/analytics/assets/images/antivirus-fight-with-hackers.png)](https://neikianalytics.com/disclaimer.html)
 
