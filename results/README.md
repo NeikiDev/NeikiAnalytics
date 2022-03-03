@@ -1,6 +1,6 @@
 # NeikiAnalytics [RESULTS]
 
-[![](https://neikianalytics.com/analytics/assets/images/testing.png)](#)
+[![](https://neikianalytics.com/analytics/assets/images/testing.png)](https://neikianalytics.com/disclaimer.html)
 
 ## Information
 - Here you can find all Results submissions
@@ -13,7 +13,7 @@
 
 # Socials
 
-[![](https://neikianalytics.com/analytics/assets/images/design-and-development-process.png)](#)
+[![](https://neikianalytics.com/analytics/assets/images/design-and-development-process.png)](https://neikianalytics.com/disclaimer.html)
 
 ### Discord
 ```
@@ -24,7 +24,7 @@ Neiki#4405
 ```
 neikianalytics@gmail.com 
 ```
-[![](https://neikianalytics.com/analytics/assets/images/banner.png)](#)
+[![](https://neikianalytics.com/analytics/assets/images/banner.png)](https://neikianalytics.com/disclaimer.html)
 
 ## Information
 - I will also check **suspicious links / URLs**
