@@ -15,7 +15,7 @@
     - [Email](https://github.com/NeikiDev/NeikiAnalytics#email)
 - [ ] [General informations](https://github.com/NeikiDev/NeikiAnalytics#information)
 - [ ] [Questions?](https://github.com/NeikiDev/NeikiAnalytics#questions-only-write-me-a-dm-)
-- [ ] [Disclaimer - Assets not free to use](https://github.com/NeikiDev/NeikiAnalyticshttps://neikianalytics.com/disclaimer.html)
+- [ ] [Disclaimer - Assets not free to use](https://github.com/NeikiDev/NeikiAnalytics#image--assets-disclaimer)
 - [ ] [Support me](https://github.com/NeikiDev/NeikiAnalytics#support-me)
  
 ## German 
