@@ -1,6 +1,6 @@
 <h1 align="center">NeikiAnalytics</h1>
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/antivirus-fight-with-hackers.png)](#image--assets-disclaimer)
+[![](https://neikianalytics.com/analytics/assets/images/antivirus-fight-with-hackers.png)](https://neikianalytics.com/disclaimer.html)
 
 <h1 align="center">Table of content</h1>
 
@@ -15,7 +15,7 @@
     - [Email](https://github.com/NeikiDev/NeikiAnalytics#email)
 - [ ] [General informations](https://github.com/NeikiDev/NeikiAnalytics#information)
 - [ ] [Questions?](https://github.com/NeikiDev/NeikiAnalytics#questions-only-write-me-a-dm-)
-- [ ] [Disclaimer - Assets not free to use](https://github.com/NeikiDev/NeikiAnalytics#image--assets-disclaimer)
+- [ ] [Disclaimer - Assets not free to use](https://github.com/NeikiDev/NeikiAnalyticshttps://neikianalytics.com/disclaimer.html)
 - [ ] [Support me](https://github.com/NeikiDev/NeikiAnalytics#support-me)
  
 ## German 
@@ -42,13 +42,13 @@
 
 # [HOW TO DEFEND YOURSELF FROM ATTACKS](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/testing.png)](#image--assets-disclaimer)
+[![](https://neikianalytics.com/analytics/assets/images/testing.png)](https://neikianalytics.com/disclaimer.html)
 
 **[Here you can find my Help page](https://github.com/NeikiDev/NeikiAnalytics/blob/main/help.md)**
 
 <h1 align="center">Newest Results / Updates</h1>
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/robots-doing-data-research.png)](#image--assets-disclaimer)
+[![](https://neikianalytics.com/analytics/assets/images/robots-doing-data-research.png)](https://neikianalytics.com/disclaimer.html)
 
 **Top 10 Newest Updates / Results**
 
@@ -84,7 +84,7 @@
 
 <h1 align="center">Socials</h1>
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/design-and-development-process.png)](#image--assets-disclaimer)
+[![](https://neikianalytics.com/analytics/assets/images/design-and-development-process.png)](https://neikianalytics.com/disclaimer.html)
 
 ### Discord
 ```
@@ -96,7 +96,7 @@ Neiki#4405
 neikianalytics@gmail.com 
 ```
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/banner.png)](#image--assets-disclaimer)
+[![](https://neikianalytics.com/analytics/assets/images/banner.png)](https://neikianalytics.com/disclaimer.html)
 
 <h1 align="center">Information</h1>
 
@@ -120,7 +120,7 @@ neikianalytics@gmail.com
     - Dont copy this images or downloading it!
     - If you have a [Iconscout](https://iconscout.com/) license please donwload it from their website!
 
-[![](https://github.com/NeikiDev/NeikiAnalytics/blob/main/assets/stickman-showing-stop-sign.png)](#image--assets-disclaimer)
+[![](https://neikianalytics.com/analytics/assets/images/stickman-showing-stop-sign.png)](https://neikianalytics.com/disclaimer.html)
 
 <h1 align="center">Support me</h1>
 
