@@ -1,5 +1,7 @@
 # NeikiAnalytics [Suspicious IPs]
 
+# [ANALYTICS MOVED TO WEBSITE! NeikiAnalytics.com](https://neikianalytics.com)
+
 ## Information
 - Here you can find all IPs that i collected! (Alle Suspicous and DANGEROUS)
 

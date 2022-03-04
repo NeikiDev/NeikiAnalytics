@@ -1,5 +1,7 @@
 # Discord Fake Steam Phishing
 
+# [ANALYTICS MOVED TO WEBSITE! NeikiAnalytics.com](https://neikianalytics.com)
+
 **IMPORTANT**
 - Click the link(s) at your own risk!
 

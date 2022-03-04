@@ -1,5 +1,7 @@
 # Twitter Fake Giveaway (TOO OBVIOUS)
 
+# [ANALYTICS MOVED TO WEBSITE! NeikiAnalytics.com](https://neikianalytics.com)
+
 **IMPORTANT**
 - Click the link(s) at your own risk!
 

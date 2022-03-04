@@ -1,5 +1,7 @@
 # NeikiAnalytics [RESULTS]
 
+# [ANALYTICS MOVED TO WEBSITE! NeikiAnalytics.com](https://neikianalytics.com)
+
 [![](https://neikianalytics.com/analytics/assets/images/testing.png)](https://neikianalytics.com/disclaimer.html)
 
 ## Information

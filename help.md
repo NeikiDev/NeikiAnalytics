@@ -1,5 +1,7 @@
 # NeikiAnalytics - Help
 
+# [ANALYTICS MOVED TO WEBSITE! NeikiAnalytics.com](https://neikianalytics.com)
+
 [![](https://neikianalytics.com/analytics/assets/images/support.png)](https://neikianalytics.com/disclaimer.html)
 
 ## What can you do against a Attack (Malware / Phishing / Other)
